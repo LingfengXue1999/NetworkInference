@@ -1,4 +1,4 @@
-# Code to investigate network inference results in experimental datasets
+# Code to investigate network inference in real datasets
 
 1. Download datasets, reads mapping using CellRanger, calculate spliced/unspliced matrix using Velocyto
 2. Read spliced/unspliced matrix, QC by Seurat (read_velocyto_output_hBCell.R)
