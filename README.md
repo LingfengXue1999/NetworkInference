@@ -1,5 +1,4 @@
-# NetworkInference
-  Intron-based method to infer gene regulatory network
+# Pre-mRNA-based method to infer gene regulatory network
 
 1. Simulate one-gene dynamics using ODE/SDE (model)
 2. Simulate whole-cell dynamics and test inferred network (dyngen)
